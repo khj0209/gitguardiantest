@@ -1,0 +1,7 @@
+dist-lambda/
+dist/
+.idea/
+node_modules/
+*-packaged.yml
+*-staged.yml
+coverage/
